@@ -1,2 +1,2 @@
 # qoutegen
-coute gen by 
+qoute gen by 
